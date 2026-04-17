@@ -1,2 +1,12 @@
-# basic-crypto-tracker-hub-79
-A simple crypto tracker project
+# Crypto Price Tracker
+
+Track cryptocurrency prices from the command line.
+
+Crafted by Morgan
+
+## Setup
+
+```
+pip install requests
+python tracker.py
+```
